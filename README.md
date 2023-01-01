@@ -1,2 +1,2 @@
 # project-1
-https://github.com/rokib96/project-1.git
+gh repo clone rokib96/Minutes-page-Demo
